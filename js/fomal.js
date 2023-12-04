@@ -2785,11 +2785,11 @@ var now = new Date();
 function createtime() {
   // 当前时间
   now.setTime(now.getTime() + 1000);
-  var start = new Date("08/01/2022 00:00:00"); // 旅行者1号开始计算的时间
+  var start = new Date("12/04/2023 00:00:00"); // 旅行者1号开始计算的时间
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("08/09/2022 00:00:00");
+  var grt = new Date("12/04/2023 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -3169,16 +3169,18 @@ let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 
 // --default -bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-
+// --darkmode - bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
+//   --mobileday - bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+//     --mobilenight - bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
 // 更换背景(自己的代码)
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(../assets/img/uyi.jpg);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(../assets/img/wallhaven-dgojvj.jpg);
+    --darkmode-bg:url(../assets/img/wallhaven-dgojvj.jpg);
+    --mobileday-bg: url(../assets/img/wallhaven-dgojvj.jpg);
+    --mobilenight-bg: url(../assets/img/wallhaven-dgojvj.jpg);
   }`;
 }
 // 切换背景主函数
