@@ -1119,7 +1119,7 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
+    `Agiantiiの小家!`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1321,11 +1321,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👀跑哪里去了~';
+    document.title = '🙊🙊🙊哎呦你干嘛~~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '🐖抓到你啦～';
+    document.title = '抓到你了吧🐒🐒🐒';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
