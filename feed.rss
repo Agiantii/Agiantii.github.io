@@ -4,14 +4,14 @@
         <title>agiantii</title>
         <link>http://agiantii.fun</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 11:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 13:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright (c) 2025-present, agiantii</copyright>
         <item>
             <link>http://agiantii.fun/about.html</link>
             <guid>http://agiantii.fun/about.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[- a student of software engineering]]></description>
             <content:encoded><![CDATA[<ul>
 <li>a student of software engineering</li>
@@ -22,20 +22,20 @@
             <title><![CDATA[guide]]></title>
             <link>http://agiantii.fun/guide/</link>
             <guid>http://agiantii.fun/guide/</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="guide" tabindex="-1">guide <a class="header-anchor" href="#guide" aria-label="Permalink to &quot;guide&quot;"></a></h1>
 ]]></content:encoded>
         </item>
         <item>
             <link>http://agiantii.fun/post/algorithm/</link>
             <guid>http://agiantii.fun/post/algorithm/</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[结论]]></title>
             <link>http://agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</link>
             <guid>http://agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[算法 icg nimm游戏
 公平组合游戏 - OI Wiki (oi-wiki.org)
 博弈论导读 - 知乎 (zhihu.com)
@@ -73,7 +73,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[传递纸条]]></title>
             <link>http://agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</link>
             <guid>http://agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <content:encoded><![CDATA[<h3 id="传递纸条" tabindex="-1">传递纸条 <a class="header-anchor" href="#传递纸条" aria-label="Permalink to &quot;传递纸条&quot;"></a></h3>
 ]]></content:encoded>
         </item>
@@ -81,7 +81,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[例题]]></title>
             <link>http://agiantii.fun/post/algorithm/树状数组（BIT）.html</link>
             <guid>http://agiantii.fun/post/algorithm/树状数组（BIT）.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[BIT（binary indexed tree)
 树状数组(详细分析+应用)
  例题
@@ -205,7 +205,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
         <item>
             <link>http://agiantii.fun/post/algorithm/线段树.html</link>
             <guid>http://agiantii.fun/post/algorithm/线段树.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[线段树 algorithm 
 `
 ```cpp
@@ -546,7 +546,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[redemption 的完结]]></title>
             <link>http://agiantii.fun/post/diary/redemption.html</link>
             <guid>http://agiantii.fun/post/diary/redemption.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友]]></description>
             <content:encoded><![CDATA[<h2 id="redemption-的完结" tabindex="-1">redemption 的完结 <a class="header-anchor" href="#redemption-的完结" aria-label="Permalink to &quot;redemption 的完结&quot;"></a></h2>
 <p>今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友
@@ -566,7 +566,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[test deploy]]></title>
             <link>http://agiantii.fun/post/</link>
             <guid>http://agiantii.fun/post/</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="test-deploy" tabindex="-1">test deploy <a class="header-anchor" href="#test-deploy" aria-label="Permalink to &quot;test deploy&quot;"></a></h2>
 ]]></content:encoded>
         </item>
@@ -574,7 +574,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[ABlog - 现代化的博客平台]]></title>
             <link>http://agiantii.fun/post/project/ablog.html</link>
             <guid>http://agiantii.fun/post/project/ablog.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[项目仓库
 - gitee
 	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
@@ -820,7 +820,7 @@ w]]></description>
             <title><![CDATA[this template ]]></title>
             <link>http://agiantii.fun/post/template/</link>
             <guid>http://agiantii.fun/post/template/</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[this template]]></description>
             <content:encoded><![CDATA[<h2 id="this-template" tabindex="-1">this template <a class="header-anchor" href="#this-template" aria-label="Permalink to &quot;this template&quot;"></a></h2>
 ]]></content:encoded>
@@ -829,7 +829,7 @@ w]]></description>
             <title><![CDATA[makefile]]></title>
             <link>http://agiantii.fun/post/template/makefile-for-cpp.html</link>
             <guid>http://agiantii.fun/post/template/makefile-for-cpp.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[tempalte for cpp 
 ```makefile
  Compiler
@@ -871,9 +871,9 @@ CXXFLAGS = -Wall -Wextra -std=c++1]]></description>
         </item>
         <item>
             <title><![CDATA[tempalte]]></title>
-            <link>http://agiantii.fun/post/template/makefile-for-workflow.html</link>
-            <guid>http://agiantii.fun/post/template/makefile-for-workflow.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <link>http://agiantii.fun/post/template/template-for-workflow.html</link>
+            <guid>http://agiantii.fun/post/template/template-for-workflow.html</guid>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[tempalte for Workflow 
  auto push to github gh-pages
 ```yaml
@@ -962,6 +962,13 @@ on:
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        run</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">pnpm build</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      - </span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">debug</span></span>
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        run</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">ls</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> </span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      - </span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">deploy to github-page</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        uses</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">s0/git-publish-subdir-action@develop</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        env</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">:</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          REPO</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">git@github.com:Agiantii/Agiantii.github.io.git</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          BRANCH</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">gh-pages</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          FOLDER</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">dist</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          SSH_PRIVATE_KEY</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">${{ secrets.DEPLOY_PRIVATE_KEY }}</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      - </span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">copy file via ssh password</span></span>
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        uses</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">appleboy/scp-action@v0.1.7</span></span>
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">        with</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">:</span></span>
@@ -971,12 +978,12 @@ on:
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          port</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">${{ secrets.PORT }}</span></span>
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          source</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"./dist"</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"> # 直接把dist传到服务器 </span></span>
 <span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">          target</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">${{ secrets.TARGET }}</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br></div></div>]]></content:encoded>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br></div></div>]]></content:encoded>
         </item>
         <item>
             <link>http://agiantii.fun/project.html</link>
             <guid>http://agiantii.fun/project.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[&lt;script  setup
     import projectCard from '../components/projectCard.vue'
 &lt;/script&gt;
@@ -987,7 +994,7 @@ on:
             <title><![CDATA[tool]]></title>
             <link>http://agiantii.fun/tool.html</link>
             <guid>http://agiantii.fun/tool.html</guid>
-            <pubDate>Tue, 11 Feb 2025 11:50:49 GMT</pubDate>
+            <pubDate>Tue, 11 Feb 2025 13:05:01 GMT</pubDate>
             <description><![CDATA[- cloudreve
 - blog
 - code-server]]></description>
