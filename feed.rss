@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>agiantii</title>
-        <link>http://agiantii.fun</link>
+        <link>http://blog.agiantii.fun</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 15:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 08:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright (c) 2025-present, agiantii</copyright>
         <item>
-            <link>http://agiantii.fun/about.html</link>
-            <guid>http://agiantii.fun/about.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/about.html</link>
+            <guid>http://blog.agiantii.fun/about.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[- a student of software engineering]]></description>
             <content:encoded><![CDATA[<ul>
 <li>a student of software engineering</li>
@@ -20,22 +20,22 @@
         </item>
         <item>
             <title><![CDATA[guide]]></title>
-            <link>http://agiantii.fun/guide/</link>
-            <guid>http://agiantii.fun/guide/</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/guide/</link>
+            <guid>http://blog.agiantii.fun/guide/</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="guide" tabindex="-1">guide <a class="header-anchor" href="#guide" aria-label="Permalink to &quot;guide&quot;"></a></h1>
 ]]></content:encoded>
         </item>
         <item>
-            <link>http://agiantii.fun/post/algorithm/</link>
-            <guid>http://agiantii.fun/post/algorithm/</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/algorithm/</link>
+            <guid>http://blog.agiantii.fun/post/algorithm/</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[结论]]></title>
-            <link>http://agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</link>
-            <guid>http://agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</link>
+            <guid>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[算法 icg nimm游戏
 公平组合游戏 - OI Wiki (oi-wiki.org)
 博弈论导读 - 知乎 (zhihu.com)
@@ -71,17 +71,17 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
         </item>
         <item>
             <title><![CDATA[传递纸条]]></title>
-            <link>http://agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</link>
-            <guid>http://agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</link>
+            <guid>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<h3 id="传递纸条" tabindex="-1">传递纸条 <a class="header-anchor" href="#传递纸条" aria-label="Permalink to &quot;传递纸条&quot;"></a></h3>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[例题]]></title>
-            <link>http://agiantii.fun/post/algorithm/树状数组（BIT）.html</link>
-            <guid>http://agiantii.fun/post/algorithm/树状数组（BIT）.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</link>
+            <guid>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[BIT（binary indexed tree)
 树状数组(详细分析+应用)
  例题
@@ -203,9 +203,9 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
 <div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br></div></div>]]></content:encoded>
         </item>
         <item>
-            <link>http://agiantii.fun/post/algorithm/线段树.html</link>
-            <guid>http://agiantii.fun/post/algorithm/线段树.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/algorithm/线段树.html</link>
+            <guid>http://blog.agiantii.fun/post/algorithm/线段树.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[线段树 algorithm 
 `
 ```cpp
@@ -544,9 +544,9 @@ define debug(x) cout &lt;&]]></description>
         </item>
         <item>
             <title><![CDATA[redemption 的完结]]></title>
-            <link>http://agiantii.fun/post/diary/redemption.html</link>
-            <guid>http://agiantii.fun/post/diary/redemption.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/diary/redemption.html</link>
+            <guid>http://blog.agiantii.fun/post/diary/redemption.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友]]></description>
             <content:encoded><![CDATA[<h2 id="redemption-的完结" tabindex="-1">redemption 的完结 <a class="header-anchor" href="#redemption-的完结" aria-label="Permalink to &quot;redemption 的完结&quot;"></a></h2>
 <p>今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友
@@ -564,17 +564,17 @@ define debug(x) cout &lt;&]]></description>
         </item>
         <item>
             <title><![CDATA[test deploy]]></title>
-            <link>http://agiantii.fun/post/</link>
-            <guid>http://agiantii.fun/post/</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/</link>
+            <guid>http://blog.agiantii.fun/post/</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="test-deploy" tabindex="-1">test deploy <a class="header-anchor" href="#test-deploy" aria-label="Permalink to &quot;test deploy&quot;"></a></h2>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ABlog - 现代化的博客平台]]></title>
-            <link>http://agiantii.fun/post/project/ablog.html</link>
-            <guid>http://agiantii.fun/post/project/ablog.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/project/ablog.html</link>
+            <guid>http://blog.agiantii.fun/post/project/ablog.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[项目仓库
 - gitee
 	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
@@ -818,18 +818,18 @@ w]]></description>
         </item>
         <item>
             <title><![CDATA[this template ]]></title>
-            <link>http://agiantii.fun/post/template/</link>
-            <guid>http://agiantii.fun/post/template/</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/template/</link>
+            <guid>http://blog.agiantii.fun/post/template/</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[this template]]></description>
             <content:encoded><![CDATA[<h2 id="this-template" tabindex="-1">this template <a class="header-anchor" href="#this-template" aria-label="Permalink to &quot;this template&quot;"></a></h2>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[makefile]]></title>
-            <link>http://agiantii.fun/post/template/makefile-for-cpp.html</link>
-            <guid>http://agiantii.fun/post/template/makefile-for-cpp.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</link>
+            <guid>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[tempalte for cpp 
 ```makefile
  Compiler
@@ -871,9 +871,9 @@ CXXFLAGS = -Wall -Wextra -std=c++1]]></description>
         </item>
         <item>
             <title><![CDATA[tempalte]]></title>
-            <link>http://agiantii.fun/post/template/template-for-workflow.html</link>
-            <guid>http://agiantii.fun/post/template/template-for-workflow.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/template/template-for-workflow.html</link>
+            <guid>http://blog.agiantii.fun/post/template/template-for-workflow.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[tempalte for Workflow 
  auto push to github gh-pages
 ```yaml
@@ -981,9 +981,9 @@ on:
 <div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br></div></div>]]></content:encoded>
         </item>
         <item>
-            <link>http://agiantii.fun/project.html</link>
-            <guid>http://agiantii.fun/project.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/project.html</link>
+            <guid>http://blog.agiantii.fun/project.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[&lt;script  setup
     import projectCard from '../components/projectCard.vue'
 &lt;/script&gt;
@@ -992,9 +992,9 @@ on:
         </item>
         <item>
             <title><![CDATA[tool]]></title>
-            <link>http://agiantii.fun/tool.html</link>
-            <guid>http://agiantii.fun/tool.html</guid>
-            <pubDate>Tue, 11 Feb 2025 15:27:42 GMT</pubDate>
+            <link>http://blog.agiantii.fun/tool.html</link>
+            <guid>http://blog.agiantii.fun/tool.html</guid>
+            <pubDate>Wed, 12 Feb 2025 08:09:55 GMT</pubDate>
             <description><![CDATA[- cloudreve
 - blog
 - code-server]]></description>
