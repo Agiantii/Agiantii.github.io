@@ -4,14 +4,14 @@
         <title>agiantii</title>
         <link>http://blog.agiantii.fun</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 10:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 12:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright (c) 2025-present, agiantii</copyright>
         <item>
             <link>http://blog.agiantii.fun/about.html</link>
             <guid>http://blog.agiantii.fun/about.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[- a student of software engineering]]></description>
             <content:encoded><![CDATA[<ul>
 <li>a student of software engineering</li>
@@ -22,20 +22,20 @@
             <title><![CDATA[guide]]></title>
             <link>http://blog.agiantii.fun/guide/</link>
             <guid>http://blog.agiantii.fun/guide/</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="guide" tabindex="-1">guide <a class="header-anchor" href="#guide" aria-label="Permalink to &quot;guide&quot;"></a></h1>
 ]]></content:encoded>
         </item>
         <item>
             <link>http://blog.agiantii.fun/post/algorithm/</link>
             <guid>http://blog.agiantii.fun/post/algorithm/</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[结论]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[算法 icg nimm游戏
 公平组合游戏 - OI Wiki (oi-wiki.org)
 博弈论导读 - 知乎 (zhihu.com)
@@ -73,7 +73,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[传递纸条]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <content:encoded><![CDATA[<h3 id="传递纸条" tabindex="-1">传递纸条 <a class="header-anchor" href="#传递纸条" aria-label="Permalink to &quot;传递纸条&quot;"></a></h3>
 ]]></content:encoded>
         </item>
@@ -81,7 +81,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[例题]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[BIT（binary indexed tree)
 树状数组(详细分析+应用)
  例题
@@ -205,7 +205,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
         <item>
             <link>http://blog.agiantii.fun/post/algorithm/线段树.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/线段树.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[线段树 algorithm 
 `
 ```cpp
@@ -546,7 +546,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[redemption 的完结]]></title>
             <link>http://blog.agiantii.fun/post/diary/redemption.html</link>
             <guid>http://blog.agiantii.fun/post/diary/redemption.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友]]></description>
             <content:encoded><![CDATA[<h2 id="redemption-的完结" tabindex="-1">redemption 的完结 <a class="header-anchor" href="#redemption-的完结" aria-label="Permalink to &quot;redemption 的完结&quot;"></a></h2>
 <p>今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友
@@ -559,7 +559,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[test deploy]]></title>
             <link>http://blog.agiantii.fun/post/</link>
             <guid>http://blog.agiantii.fun/post/</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="test-deploy" tabindex="-1">test deploy <a class="header-anchor" href="#test-deploy" aria-label="Permalink to &quot;test deploy&quot;"></a></h2>
 ]]></content:encoded>
         </item>
@@ -567,7 +567,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[ABlog - 现代化的博客平台]]></title>
             <link>http://blog.agiantii.fun/post/project/ablog.html</link>
             <guid>http://blog.agiantii.fun/post/project/ablog.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[项目仓库
 - gitee
 	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
@@ -810,10 +810,43 @@ w]]></description>
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。]]></title>
+            <link>http://blog.agiantii.fun/post/python/spider/selenium-start.html</link>
+            <guid>http://blog.agiantii.fun/post/python/spider/selenium-start.html</guid>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
+            <description><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。
+ python 安装 selenium
+```shell
+pip install selenium
+```
+ 安装浏览器]]></description>
+            <content:encoded><![CDATA[<h2 id="记录一下-python-selenium-的使用-以及一些常见问题的解决方法。" tabindex="-1">记录一下 python selenium 的使用，以及一些常见问题的解决方法。 <a class="header-anchor" href="#记录一下-python-selenium-的使用-以及一些常见问题的解决方法。" aria-label="Permalink to &quot;记录一下 python selenium 的使用，以及一些常见问题的解决方法。&quot;"></a></h2>
+<h3 id="python-安装-selenium" tabindex="-1">python 安装 selenium <a class="header-anchor" href="#python-安装-selenium" aria-label="Permalink to &quot;python 安装 selenium&quot;"></a></h3>
+<div class="language-shell vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">shell</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">pip</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> install</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> selenium</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><h3 id="安装浏览器驱动" tabindex="-1">安装浏览器驱动 <a class="header-anchor" href="#安装浏览器驱动" aria-label="Permalink to &quot;安装浏览器驱动&quot;"></a></h3>
+<p>可以到<a href="https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win/1290606/" target="_blank" rel="noreferrer">这里</a> 下载对应的 chrome 以及 driver,一起下来</p>
+<p>然后driver 跟 chrome 目录放到一起，程序可以指定 driver 的路径，也可以放到环境变量中</p>
+<p>如图
+<img src="./assets/selenium-start/image.png" alt="alt text"></p>
+<h3 id="代码示例" tabindex="-1">代码示例 <a class="header-anchor" href="#代码示例" aria-label="Permalink to &quot;代码示例&quot;"></a></h3>
+<div class="language-python vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">python</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"># 最简单的 selium 使用</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> selenium </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> webdriver</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">driver_path </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> r</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">E:</span><span style="--shiki-light:#22863A;--shiki-light-font-weight:bold;--shiki-dark:#85E89D;--shiki-dark-font-weight:bold">\t</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">ool</span><span style="--shiki-light:#22863A;--shiki-light-font-weight:bold;--shiki-dark:#85E89D;--shiki-dark-font-weight:bold">\c</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">hrome-driver</span><span style="--shiki-light:#22863A;--shiki-light-font-weight:bold;--shiki-dark:#85E89D;--shiki-dark-font-weight:bold">\c</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">hrome-win</span><span style="--shiki-light:#22863A;--shiki-light-font-weight:bold;--shiki-dark:#85E89D;--shiki-dark-font-weight:bold">\c</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">hromedriver</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">.</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">exe</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">service </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> webdriver.chrome.service.Service(driver_path)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">driver </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> webdriver.Chrome(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">service</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">service)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">driver.get(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"https://www.baidu.com"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">print</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(driver.title)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">driver.quit()</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div>]]></content:encoded>
+            <enclosure url="http://blog.agiantii.fun/assets/selenium-start/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[this template ]]></title>
             <link>http://blog.agiantii.fun/post/template/</link>
             <guid>http://blog.agiantii.fun/post/template/</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[this template]]></description>
             <content:encoded><![CDATA[<h2 id="this-template" tabindex="-1">this template <a class="header-anchor" href="#this-template" aria-label="Permalink to &quot;this template&quot;"></a></h2>
 ]]></content:encoded>
@@ -822,7 +855,7 @@ w]]></description>
             <title><![CDATA[makefile]]></title>
             <link>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</link>
             <guid>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[tempalte for cpp 
 ```makefile
  Compiler
@@ -866,7 +899,7 @@ CXXFLAGS = -Wall -Wextra -std=c++1]]></description>
             <title><![CDATA[tempalte]]></title>
             <link>http://blog.agiantii.fun/post/template/template-for-workflow.html</link>
             <guid>http://blog.agiantii.fun/post/template/template-for-workflow.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[tempalte for Workflow 
  auto push to github gh-pages
 ```yaml
@@ -976,7 +1009,7 @@ on:
         <item>
             <link>http://blog.agiantii.fun/project.html</link>
             <guid>http://blog.agiantii.fun/project.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[&lt;script  setup
     import projectCard from '../components/projectCard.vue'
 &lt;/script&gt;
@@ -987,7 +1020,7 @@ on:
             <title><![CDATA[tool]]></title>
             <link>http://blog.agiantii.fun/tool.html</link>
             <guid>http://blog.agiantii.fun/tool.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:28:13 GMT</pubDate>
+            <pubDate>Sat, 15 Feb 2025 12:04:24 GMT</pubDate>
             <description><![CDATA[- cloudreve
 - blog
 - code-server]]></description>
