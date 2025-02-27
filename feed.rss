@@ -4,14 +4,14 @@
         <title>agiantii</title>
         <link>http://blog.agiantii.fun</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 14:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 14:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright (c) 2025-present, agiantii</copyright>
         <item>
             <link>http://blog.agiantii.fun/about.html</link>
             <guid>http://blog.agiantii.fun/about.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[- a student of software engineering]]></description>
             <content:encoded><![CDATA[<ul>
 <li>a student of software engineering</li>
@@ -22,20 +22,20 @@
             <title><![CDATA[guide]]></title>
             <link>http://blog.agiantii.fun/guide/</link>
             <guid>http://blog.agiantii.fun/guide/</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="guide" tabindex="-1">guide <a class="header-anchor" href="#guide" aria-label="Permalink to &quot;guide&quot;"></a></h1>
 ]]></content:encoded>
         </item>
         <item>
             <link>http://blog.agiantii.fun/post/algorithm/</link>
             <guid>http://blog.agiantii.fun/post/algorithm/</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[结论]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/博弈论/nimm 游戏.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[算法 icg nimm游戏
 公平组合游戏 - OI Wiki (oi-wiki.org)
 博弈论导读 - 知乎 (zhihu.com)
@@ -73,7 +73,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[传递纸条]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <content:encoded><![CDATA[<h3 id="传递纸条" tabindex="-1">传递纸条 <a class="header-anchor" href="#传递纸条" aria-label="Permalink to &quot;传递纸条&quot;"></a></h3>
 ]]></content:encoded>
         </item>
@@ -81,7 +81,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[例题]]></title>
             <link>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/树状数组（BIT）.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[BIT（binary indexed tree)
 树状数组(详细分析+应用)
  例题
@@ -205,7 +205,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
         <item>
             <link>http://blog.agiantii.fun/post/algorithm/线段树.html</link>
             <guid>http://blog.agiantii.fun/post/algorithm/线段树.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[线段树 algorithm 
 `
 ```cpp
@@ -546,7 +546,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[redemption 的完结]]></title>
             <link>http://blog.agiantii.fun/post/diary/redemption.html</link>
             <guid>http://blog.agiantii.fun/post/diary/redemption.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友]]></description>
             <content:encoded><![CDATA[<h2 id="redemption-的完结" tabindex="-1">redemption 的完结 <a class="header-anchor" href="#redemption-的完结" aria-label="Permalink to &quot;redemption 的完结&quot;"></a></h2>
 <p>今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友
@@ -559,7 +559,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[test deploy]]></title>
             <link>http://blog.agiantii.fun/post/</link>
             <guid>http://blog.agiantii.fun/post/</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="test-deploy" tabindex="-1">test deploy <a class="header-anchor" href="#test-deploy" aria-label="Permalink to &quot;test deploy&quot;"></a></h2>
 ]]></content:encoded>
         </item>
@@ -567,7 +567,7 @@ define debug(x) cout &lt;&]]></description>
             <title><![CDATA[ABlog - 现代化的博客平台]]></title>
             <link>http://blog.agiantii.fun/post/project/ablog.html</link>
             <guid>http://blog.agiantii.fun/post/project/ablog.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[项目仓库
 - gitee
 	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
@@ -811,9 +811,9 @@ w]]></description>
         </item>
         <item>
             <title><![CDATA[Yuque 导出文档的 Web UI]]></title>
-            <link>http://blog.agiantii.fun/post/project/yuque-export-web-ui.md/Q&amp;A.html</link>
-            <guid>http://blog.agiantii.fun/post/project/yuque-export-web-ui.md/Q&amp;A.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <link>http://blog.agiantii.fun/post/project/yuque-export-web-ui/Q&amp;A.html</link>
+            <guid>http://blog.agiantii.fun/post/project/yuque-export-web-ui/Q&amp;A.html</guid>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[这是一个用于导出 Yuque 文档的 Web UI 项目。该项目允许用户通过 Web 界面输入 Cookie 并选择要导出的书籍，最终生成包含所选书籍的 ZIP 文件。
  ps
 - 你可以结合 img]]></description>
@@ -830,7 +830,7 @@ w]]></description>
 </li>
 <li>yuque-export-web-ui 改自 <a href="https://github.com/Agiantii/yuque-export-simple.git" target="_blank" rel="noreferrer">yuque-export-simple</a></li>
 </ul>
-<h2 id="q-a" tabindex="-1">Q&amp;A <a class="header-anchor" href="#q-a" aria-label="Permalink to &quot;Q&amp;A&quot;"></a></h2>
+<h1 id="q-a" tabindex="-1">Q&amp;A <a class="header-anchor" href="#q-a" aria-label="Permalink to &quot;Q&amp;A&quot;"></a></h1>
 <h4 id="如何获取cookkie" tabindex="-1">如何获取cookkie <a class="header-anchor" href="#如何获取cookkie" aria-label="Permalink to &quot;如何获取cookkie&quot;"></a></h4>
 <p>进入<a href="https://www.yuque.com/dashboard" target="_blank" rel="noreferrer">语雀</a> <code>F12</code> 打开开发者工具
 进入 console 输入 <code>document.cookie</code> 回车即可获取到 <code>cookie</code></p>
@@ -839,7 +839,7 @@ w]]></description>
 <h4 id="下载速率如何" tabindex="-1">下载速率如何 <a class="header-anchor" href="#下载速率如何" aria-label="Permalink to &quot;下载速率如何&quot;"></a></h4>
 <p>大概是 100篇/s 左右, 但是由于网络原因可能会有波动</p>
 <p>如果能对您有所帮助,那再好不过了,如果有任何问题,欢迎提issue</p>
-<h2 id="项目结构" tabindex="-1">项目结构 <a class="header-anchor" href="#项目结构" aria-label="Permalink to &quot;项目结构&quot;"></a></h2>
+<h1 id="项目结构" tabindex="-1">项目结构 <a class="header-anchor" href="#项目结构" aria-label="Permalink to &quot;项目结构&quot;"></a></h1>
 <div class="language- vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span>/src</span></span>
 <span class="line"><span>  /assets</span></span>
 <span class="line"><span>    react.svg</span></span>
@@ -853,7 +853,7 @@ w]]></description>
 <span class="line"><span>  App.css</span></span>
 <span class="line"><span>  index.css</span></span>
 <span class="line"><span>  main.jsx</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h2 id="安装与运行" tabindex="-1">安装与运行 <a class="header-anchor" href="#安装与运行" aria-label="Permalink to &quot;安装与运行&quot;"></a></h2>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h1 id="安装与运行" tabindex="-1">安装与运行 <a class="header-anchor" href="#安装与运行" aria-label="Permalink to &quot;安装与运行&quot;"></a></h1>
 <h3 id="clone" tabindex="-1">clone <a class="header-anchor" href="#clone" aria-label="Permalink to &quot;clone&quot;"></a></h3>
 <div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">git</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> clone</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> https://github.com/Agiantii/yuque-export-web-ui</span></span></code></pre>
 <div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">cd</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> yuque-export-web-ui</span></span></code></pre>
@@ -864,23 +864,23 @@ w]]></description>
 <div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">cd</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> server</span></span></code></pre>
 <div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> install</span></span></code></pre>
 <div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> run</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> start</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><h2 id="使用方法" tabindex="-1">使用方法 <a class="header-anchor" href="#使用方法" aria-label="Permalink to &quot;使用方法&quot;"></a></h2>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><h1 id="使用方法" tabindex="-1">使用方法 <a class="header-anchor" href="#使用方法" aria-label="Permalink to &quot;使用方法&quot;"></a></h1>
 <ol>
 <li>在输入框中输入你的 Yuque Cookie。</li>
 <li>点击“获取书籍列表”按钮获取你的书籍列表。</li>
 <li>在书籍列表中选择要导出的书籍。</li>
 <li>点击“下载选中的知识库”按钮下载包含所选书籍的 ZIP 文件。</li>
 </ol>
-<h2 id="主要功能" tabindex="-1">主要功能 <a class="header-anchor" href="#主要功能" aria-label="Permalink to &quot;主要功能&quot;"></a></h2>
+<h1 id="主要功能" tabindex="-1">主要功能 <a class="header-anchor" href="#主要功能" aria-label="Permalink to &quot;主要功能&quot;"></a></h1>
 <ul>
 <li><strong>获取书籍列表</strong>：通过输入 Yuque Cookie 获取用户的书籍列表。</li>
 <li><strong>搜索书籍</strong>：通过搜索框可以快速查找特定书籍。</li>
 <li><strong>选择书籍</strong>：支持单选和全选书籍。</li>
 <li><strong>下载书籍</strong>：支持合并下载和分别下载书籍。</li>
 </ul>
-<h2 id="贡献" tabindex="-1">贡献 <a class="header-anchor" href="#贡献" aria-label="Permalink to &quot;贡献&quot;"></a></h2>
+<h1 id="贡献" tabindex="-1">贡献 <a class="header-anchor" href="#贡献" aria-label="Permalink to &quot;贡献&quot;"></a></h1>
 <p>欢迎提交问题和拉取请求。如果你有任何建议或改进，请随时提出。</p>
-<h2 id="许可证" tabindex="-1">许可证 <a class="header-anchor" href="#许可证" aria-label="Permalink to &quot;许可证&quot;"></a></h2>
+<h1 id="许可证" tabindex="-1">许可证 <a class="header-anchor" href="#许可证" aria-label="Permalink to &quot;许可证&quot;"></a></h1>
 <p>本项目采用 MIT 许可证。</p>
 ]]></content:encoded>
         </item>
@@ -888,7 +888,7 @@ w]]></description>
             <title><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。]]></title>
             <link>http://blog.agiantii.fun/post/python/spider/selenium-start.html</link>
             <guid>http://blog.agiantii.fun/post/python/spider/selenium-start.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。
  python 安装 selenium
 ```shell
@@ -921,7 +921,7 @@ pip install selenium
             <title><![CDATA[this template ]]></title>
             <link>http://blog.agiantii.fun/post/template/</link>
             <guid>http://blog.agiantii.fun/post/template/</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[this template]]></description>
             <content:encoded><![CDATA[<h2 id="this-template" tabindex="-1">this template <a class="header-anchor" href="#this-template" aria-label="Permalink to &quot;this template&quot;"></a></h2>
 ]]></content:encoded>
@@ -930,7 +930,7 @@ pip install selenium
             <title><![CDATA[makefile]]></title>
             <link>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</link>
             <guid>http://blog.agiantii.fun/post/template/makefile-for-cpp.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[tempalte for cpp 
 ```makefile
  Compiler
@@ -974,7 +974,7 @@ CXXFLAGS = -Wall -Wextra -std=c++1]]></description>
             <title><![CDATA[tempalte]]></title>
             <link>http://blog.agiantii.fun/post/template/template-for-workflow.html</link>
             <guid>http://blog.agiantii.fun/post/template/template-for-workflow.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[tempalte for Workflow 
  auto push to github gh-pages
 ```yaml
@@ -1085,7 +1085,7 @@ on:
             <title><![CDATA[tool]]></title>
             <link>http://blog.agiantii.fun/tool.html</link>
             <guid>http://blog.agiantii.fun/tool.html</guid>
-            <pubDate>Thu, 27 Feb 2025 14:21:30 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 14:30:09 GMT</pubDate>
             <description><![CDATA[- cloudreve
 - blog
 - code-server]]></description>
