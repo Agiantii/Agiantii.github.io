@@ -4,14 +4,14 @@
         <title>agiantii</title>
         <link>http://blog.agiantii.top</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 May 2025 13:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 14:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright (c) 2025-present, agiantii</copyright>
         <item>
             <link>http://blog.agiantii.top/about.html</link>
             <guid>http://blog.agiantii.top/about.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[- a student of software engineering]]></description>
             <content:encoded><![CDATA[<ul>
 <li>a student of software engineering</li>
@@ -22,20 +22,20 @@
             <title><![CDATA[guide]]></title>
             <link>http://blog.agiantii.top/guide/</link>
             <guid>http://blog.agiantii.top/guide/</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="guide" tabindex="-1">guide <a class="header-anchor" href="#guide" aria-label="Permalink to &quot;guide&quot;"></a></h1>
 ]]></content:encoded>
         </item>
         <item>
             <link>http://blog.agiantii.top/post/algorithm/</link>
             <guid>http://blog.agiantii.top/post/algorithm/</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[结论]]></title>
             <link>http://blog.agiantii.top/post/algorithm/博弈论/nimm 游戏.html</link>
             <guid>http://blog.agiantii.top/post/algorithm/博弈论/nimm 游戏.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[算法 icg nimm游戏
 公平组合游戏 - OI Wiki (oi-wiki.org)
 博弈论导读 - 知乎 (zhihu.com)
@@ -73,7 +73,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[传递纸条]]></title>
             <link>http://blog.agiantii.top/post/algorithm/最长上升子序列/最长上升子序列.html</link>
             <guid>http://blog.agiantii.top/post/algorithm/最长上升子序列/最长上升子序列.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <content:encoded><![CDATA[<h3 id="传递纸条" tabindex="-1">传递纸条 <a class="header-anchor" href="#传递纸条" aria-label="Permalink to &quot;传递纸条&quot;"></a></h3>
 ]]></content:encoded>
         </item>
@@ -81,7 +81,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
             <title><![CDATA[例题]]></title>
             <link>http://blog.agiantii.top/post/algorithm/树状数组（BIT）.html</link>
             <guid>http://blog.agiantii.top/post/algorithm/树状数组（BIT）.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[BIT（binary indexed tree)
 树状数组(详细分析+应用)
  例题
@@ -205,7 +205,7 @@ $n$堆物品，每堆有$a_i$个，两个玩家轮流取走任意一堆的任意
         <item>
             <link>http://blog.agiantii.top/post/algorithm/线段树.html</link>
             <guid>http://blog.agiantii.top/post/algorithm/线段树.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[线段树 algorithm 
 ```cpp
 include &lt;bits/stdc++.h
@@ -544,7 +544,7 @@ define debug(x) cout &lt;&lt]]></description>
             <title><![CDATA[redemption 的完结]]></title>
             <link>http://blog.agiantii.top/post/diary/redemption.html</link>
             <guid>http://blog.agiantii.top/post/diary/redemption.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友]]></description>
             <content:encoded><![CDATA[<h2 id="redemption-的完结" tabindex="-1">redemption 的完结 <a class="header-anchor" href="#redemption-的完结" aria-label="Permalink to &quot;redemption 的完结&quot;"></a></h2>
 <p>今天终于 完美看完了 荒野大镖客，虽然确实有点久，author Morgan，致我难忘的朋友
@@ -557,255 +557,15 @@ define debug(x) cout &lt;&lt]]></description>
             <title><![CDATA[test deploy]]></title>
             <link>http://blog.agiantii.top/post/</link>
             <guid>http://blog.agiantii.top/post/</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="test-deploy" tabindex="-1">test deploy <a class="header-anchor" href="#test-deploy" aria-label="Permalink to &quot;test deploy&quot;"></a></h2>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ABlog - 现代化的博客平台]]></title>
-            <link>http://blog.agiantii.top/post/project/ablog-readme.html</link>
-            <guid>http://blog.agiantii.top/post/project/ablog-readme.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
-            <description><![CDATA[项目仓库
-- gitee
-	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
-	- ablog-backend: 简单的博客系统 (gitee.com)
- 项目介绍
- ]]></description>
-            <content:encoded><![CDATA[<h1 id="ablog-现代化的博客平台" tabindex="-1">ABlog - 现代化的博客平台 <a class="header-anchor" href="#ablog-现代化的博客平台" aria-label="Permalink to &quot;ABlog - 现代化的博客平台&quot;"></a></h1>
-<h2 id="项目仓库" tabindex="-1">项目仓库 <a class="header-anchor" href="#项目仓库" aria-label="Permalink to &quot;项目仓库&quot;"></a></h2>
-<ul>
-<li>gitee
-<ul>
-<li><a href="https://gitee.com/Agiantii/ablog-front" target="_blank" rel="noreferrer">ablog-front: 一个 简单 博客系统 前端 (gitee.com)</a></li>
-<li><a href="https://gitee.com/Agiantii/ablog-backend" target="_blank" rel="noreferrer">ablog-backend: 简单的博客系统 (gitee.com)</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="项目介绍" tabindex="-1">项目介绍 <a class="header-anchor" href="#项目介绍" aria-label="Permalink to &quot;项目介绍&quot;"></a></h2>
-<p>ABlog 是一个面向开发者和技术爱好者的现代化博客平台。它专注于提供优质的技术内容创作和分享体验，支持 Markdown 编写，并集成了代码高亮、数学公式、流程图等专业特性。</p>
-<blockquote>
-<p>ps</p>
-<ul>
-<li>前端 利用 cursor 生成</li>
-<li>后端结合 设计模式 写了一写 crud</li>
-</ul>
-</blockquote>
-<h3 id="主要特点" tabindex="-1">主要特点 <a class="header-anchor" href="#主要特点" aria-label="Permalink to &quot;主要特点&quot;"></a></h3>
-<ul>
-<li><strong>内容审核</strong> 文章 内容 、 外链、 篇幅等的 审核</li>
-<li><strong>文章批量上传</strong></li>
-<li><strong>支持自定义图床</strong></li>
-<li><strong>方便代码片段的分享</strong></li>
-<li><strong>优雅的写作体验</strong>：集成专业的 Markdown 编辑器，支持实时预览</li>
-<li><strong>代码展示</strong>：支持多种编程语言的语法高亮，适合技术内容创作</li>
-<li><strong>数学公式</strong>：内置 KaTeX 支持，完美展示数学公式</li>
-<li><strong>图表支持</strong>：集成 Mermaid，轻松创建流程图、时序图等</li>
-<li><strong>深色模式</strong>：自适应系统主题，提供舒适的阅读体验</li>
-</ul>
-<h3 id="目标用户" tabindex="-1">目标用户 <a class="header-anchor" href="#目标用户" aria-label="Permalink to &quot;目标用户&quot;"></a></h3>
-<ul>
-<li>爱写博客的人</li>
-</ul>
-<h3 id="技术栈" tabindex="-1">技术栈 <a class="header-anchor" href="#技术栈" aria-label="Permalink to &quot;技术栈&quot;"></a></h3>
-<h4 id="front" tabindex="-1">front <a class="header-anchor" href="#front" aria-label="Permalink to &quot;front&quot;"></a></h4>
-<ul>
-<li>
-<p>Vue 3 + Vite + Element Plus</p>
-</li>
-<li>
-<p>状态管理：Pinia</p>
-</li>
-<li>
-<p>Markdown：md-editor-v3</p>
-</li>
-</ul>
-<h4 id="backend" tabindex="-1">backend <a class="header-anchor" href="#backend" aria-label="Permalink to &quot;backend&quot;"></a></h4>
-<ul>
-<li>springboot</li>
-<li>mybatis-plus</li>
-</ul>
-<h3 id="亮点功能" tabindex="-1">亮点功能 <a class="header-anchor" href="#亮点功能" aria-label="Permalink to &quot;亮点功能&quot;"></a></h3>
-<ul>
-<li>
-<p>文章批量导入</p>
-</li>
-<li>
-<p>智能排版和美化</p>
-</li>
-<li>
-<p>社交互动（关注）</p>
-</li>
-</ul>
-<h2 id="uml" tabindex="-1">UML <a class="header-anchor" href="#uml" aria-label="Permalink to &quot;UML&quot;"></a></h2>
-<h3 id="策略模式" tabindex="-1">策略模式 <a class="header-anchor" href="#策略模式" aria-label="Permalink to &quot;策略模式&quot;"></a></h3>
-
-      <Suspense> 
-      <template #default>
-      <Mermaid id="mermaid-172" class="mermaid" graph="%0A%20%20%0A%0AclassDiagram%0A%0A%C2%A0%20%C2%A0%20note%20for%20PostService%20%22searchStrategyMap%20%E7%9B%B8%E5%BD%93%E4%BA%8E%20%E6%98%AF%20context%22%0A%0A%C2%A0%20%C2%A0%20note%20for%20PostService%20%22%E5%90%8C%E6%97%B6%20%E8%BF%99%E6%A0%B7%E7%9A%84%20%E6%8B%93%E5%B1%95%E6%80%A7%E4%B9%9F%E6%9B%B4%E9%AB%98%E4%BA%86%EF%BC%8C%E4%B9%8B%E5%90%8E%E6%8C%89%E7%85%A7%20tag%2C%E6%97%B6%E9%97%B4%20%E5%88%86%E7%B1%BB%E6%90%9C%E7%B4%A2%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E5%AF%B9%E4%BA%8E%E7%9A%84%E7%AD%96%E7%95%A5%E5%8D%B3%E5%8F%AF%22%0A%0A%C2%A0%20%C2%A0%20class%20SearchStrategy%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%3C%3Cinterface%3E%3E%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsearch(String%20keyword)%20List~PostVO~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20TitleSearchStrategy%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-PostMapper%20postMapper%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsearch(String%20keyword)%20List~PostVO~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ContentSearchStrategy%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-PostMapper%20postMapper%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsearch(String%20keyword)%20List~PostVO~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20AuthorSearchStrategy%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-PostMapper%20postMapper%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsearch(String%20keyword)%20List~PostVO~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BgetName()%20String%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BgetDescription()%20String%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20PostService%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-Map~String%2C%20SearchStrategy~%20searchStrategyMap%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsearch(String%20keyword%2C%20String%20searchType%2C%20Integer%20page%2C%20Integer%20size)%20R~List~PostVO~~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20SearchStrategy%20%3C%7C..%20TitleSearchStrategy%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20SearchStrategy%20%3C%7C..%20ContentSearchStrategy%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20SearchStrategy%20%3C%7C..%20AuthorSearchStrategy%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20PostService%20--%3E%20SearchStrategy%20%3Ause%0A%0A%20%20%0A%0A"></Mermaid>
-      </template>
-        <!-- loading state via #fallback slot -->
-        <template #fallback>
-          Loading...
-        </template>
-      </Suspense><h4 id="优点" tabindex="-1">优点 <a class="header-anchor" href="#优点" aria-label="Permalink to &quot;优点&quot;"></a></h4>
-<ul>
-<li>
-<p><strong>算法切换自由</strong>：可以在运行时根据需要切换算法。</p>
-</li>
-<li>
-<p><strong>避免多重条件判断</strong>：消除了复杂的条件语句。</p>
-</li>
-<li>
-<p><strong>扩展性好</strong>：新增算法只需新增一个策略类，无需修改现有代码。</p>
-</li>
-</ul>
-<h4 id="缺点" tabindex="-1">缺点 <a class="header-anchor" href="#缺点" aria-label="Permalink to &quot;缺点&quot;"></a></h4>
-<p>使用起来找不到</p>
-<h3 id="责任链模式" tabindex="-1">责任链模式 <a class="header-anchor" href="#责任链模式" aria-label="Permalink to &quot;责任链模式&quot;"></a></h3>
-
-      <Suspense> 
-      <template #default>
-      <Mermaid id="mermaid-202" class="mermaid" graph="%0A%20%20%0A%0AclassDiagram%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ContentHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%3C%3Cinterface%3E%3E%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bhandle(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BsetNext(ContentHandler%20next)%20void%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20BaseContentHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%3C%3Cabstract%3E%3E%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%23ContentHandler%20next%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BsetNext(ContentHandler%20next)%20void%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%23handleNext(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ContentHandlerChain%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-WordCountHandler%20wordCountHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-SensitiveWordHandler%20sensitiveWordHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-ImageHandler%20imageHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-TitleHandler%20titleHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-ContentHandler%20chain%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Binit()%20void%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BcheckContent(PostDTO%20content)%20void%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20TitleHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-SENSITIVE_WORDS%20List~String~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bhandle(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20WordCountHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-MIN_WORDS%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-MAX_WORDS%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bhandle(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20SensitiveWordHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-SENSITIVE_WORDS%20List~String~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bhandle(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ImageHandler%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bhandle(PostDTO%20content)%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentHandler%20%3C%7C..%20BaseContentHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20BaseContentHandler%20%3C%7C--%20TitleHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20BaseContentHandler%20%3C%7C--%20WordCountHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20BaseContentHandler%20%3C%7C--%20SensitiveWordHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20BaseContentHandler%20%3C%7C--%20ImageHandler%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentHandlerChain%20--%3E%20ContentHandler%0A%0A%20%20%0A%0A%20%20%0A%0A"></Mermaid>
-      </template>
-        <!-- loading state via #fallback slot -->
-        <template #fallback>
-          Loading...
-        </template>
-      </Suspense><h4 id="优点-1" tabindex="-1">优点 <a class="header-anchor" href="#优点-1" aria-label="Permalink to &quot;优点&quot;"></a></h4>
-<ul>
-<li>
-<p><strong>降低耦合度</strong>：发送者和接收者之间解耦。</p>
-</li>
-<li>
-<p><strong>简化对象</strong>：对象不需要知道链的结构。</p>
-</li>
-<li>
-<p><strong>灵活性</strong>：通过改变链的成员或顺序，动态地新增或删除责任。</p>
-</li>
-<li>
-<p><strong>易于扩展</strong>：增加新的请求处理类很方便。</p>
-</li>
-</ul>
-<h4 id="缺点-1" tabindex="-1">缺点 <a class="header-anchor" href="#缺点-1" aria-label="Permalink to &quot;缺点&quot;"></a></h4>
-<p>写起来不太习惯</p>
-<div class="language-java vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">java</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">st.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setNext</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(a);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">b.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setNext</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(c);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">c.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setNext</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(ed);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">st.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">handle</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(content);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// 这样写起来稍微 有点不习惯</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// 不妨试试  直接利用 迭代器 来 处理所有的 handler</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br></div></div><h3 id="迭代器" tabindex="-1">迭代器 <a class="header-anchor" href="#迭代器" aria-label="Permalink to &quot;迭代器&quot;"></a></h3>
-
-      <Suspense> 
-      <template #default>
-      <Mermaid id="mermaid-238" class="mermaid" graph="%0AclassDiagram%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20Collection~T~%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%3C%3Cinterface%3E%3E%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BcreateIterator()%20Iterator~T~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsize()%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ContentFilter%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%3C%3Cinterface%3E%3E%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BdoFilter(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BgetName()%20String%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BgetDescription()%20String%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BisEnabled()%20boolean%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20FilterCollection%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-List~ContentFilter~%20filters%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BaddFilter(ContentFilter%20filter)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BcreateIterator()%20Iterator~ContentFilter~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bsize()%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Bclear()%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ContentFilterManager%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-FilterCollection%20filterCollection%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-TitleFilter%20titleFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-WordCountFilter%20wordCountFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-SensitiveWordFilter%20sensitiveWordFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-ImageFilter%20imageFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2Binit()%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BfilterContent(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20WordCountFilter%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-MIN_WORDS%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-MAX_WORDS%20int%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BdoFilter(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20TitleFilter%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BdoFilter(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20SensitiveWordFilter%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20-SENSITIVE_WORDS%20List~String~%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BdoFilter(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20class%20ImageFilter%20%7B%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%2BdoFilter(PostDTO%20content)%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20%7D%0A%0A%20%20%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20Collection%20%3C%7C..%20FilterCollection%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentFilter%20%3C%7C..%20WordCountFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentFilter%20%3C%7C..%20TitleFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentFilter%20%3C%7C..%20SensitiveWordFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentFilter%20%3C%7C..%20ImageFilter%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20ContentFilterManager%20--%3E%20FilterCollection%0A%0A%20%20%0A%0A%C2%A0%20%C2%A0%20FilterCollection%20--%3E%20ContentFilter%0A%0A"></Mermaid>
-      </template>
-        <!-- loading state via #fallback slot -->
-        <template #fallback>
-          Loading...
-        </template>
-      </Suspense><h4 id="优点-2" tabindex="-1">优点 <a class="header-anchor" href="#优点-2" aria-label="Permalink to &quot;优点&quot;"></a></h4>
-<ul>
-<li>
-<p><strong>支持多种遍历方式</strong>：不同的迭代器可以定义不同的遍历方式。</p>
-</li>
-<li>
-<p><strong>封装</strong> 不过多暴露内部结构</p>
-</li>
-</ul>
-<h3 id="工厂模式" tabindex="-1">工厂模式 <a class="header-anchor" href="#工厂模式" aria-label="Permalink to &quot;工厂模式&quot;"></a></h3>
-<p>我们发现 这些拦截器 也可以利用 工厂方法 生产,进而 可以更方便后续使用</p>
-<p>但是 springboot 的依赖注入 相当于 实现了 一个 大工厂 ，所以 这些产品 都 通过 依赖注入 实现</p>
-<h3 id="观察者模式" tabindex="-1">观察者模式 <a class="header-anchor" href="#观察者模式" aria-label="Permalink to &quot;观察者模式&quot;"></a></h3>
-<p>粉丝 相当于 是 观察者</p>
-<p>作者 相当于 被观察者</p>
-<p>被观察的状态更新 就会触发 一个事件，粉丝做出相应的反应</p>
-<div class="language-java vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">java</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">class</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Author</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> implements</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Subject</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    List&#x3C;</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">Observer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> lis ;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  </span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    Integer data;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    Author</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        lis </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ArrayList&#x3C;>();</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Observer </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">o</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> remove</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Observer </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">o</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> uploadArticle</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Integer </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">date</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        notify</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> notify</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Observer fan</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">list){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            fan.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sentEmail</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">();</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  </span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">class</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Fans</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> implements</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Observer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    String email;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    Fans</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(String </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">email</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">        this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.email </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> email;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> sentEmail</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(){</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        System.out.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">print</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"send email to"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> +</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> email);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br><span class="line-number">51</span><br><span class="line-number">52</span><br><span class="line-number">53</span><br><span class="line-number">54</span><br><span class="line-number">55</span><br><span class="line-number">56</span><br></div></div><h2 id="project-setup" tabindex="-1">Project Setup <a class="header-anchor" href="#project-setup" aria-label="Permalink to &quot;Project Setup&quot;"></a></h2>
-<h3 id="front-1" tabindex="-1">front <a class="header-anchor" href="#front-1" aria-label="Permalink to &quot;front&quot;"></a></h3>
-<div class="language-sh vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> install</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><h4 id="compile-and-hot-reload-for-development" tabindex="-1">Compile and Hot-Reload for Development <a class="header-anchor" href="#compile-and-hot-reload-for-development" aria-label="Permalink to &quot;Compile and Hot-Reload for Development&quot;"></a></h4>
-<div class="language-sh vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> run</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> dev</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><h4 id="compile-and-minify-for-production" tabindex="-1">Compile and Minify for Production <a class="header-anchor" href="#compile-and-minify-for-production" aria-label="Permalink to &quot;Compile and Minify for Production&quot;"></a></h4>
-<div class="language-sh vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> run</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> build</span></span></code></pre>
-<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><h2 id="backend-1" tabindex="-1">backend <a class="header-anchor" href="#backend-1" aria-label="Permalink to &quot;backend&quot;"></a></h2>
-<ul>
-<li>配置数据库</li>
-<li>修改application.yml 配置</li>
-<li>运行</li>
-</ul>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ABlog - 现代化的博客平台]]></title>
             <link>http://blog.agiantii.top/post/project/ablog.html</link>
             <guid>http://blog.agiantii.top/post/project/ablog.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[项目仓库
 - gitee
 	- ablog-front: 一个 简单 博客系统 前端 (gitee.com)
@@ -825,7 +585,8 @@ w]]></description>
 <h2 id="运行环境" tabindex="-1">运行环境 <a class="header-anchor" href="#运行环境" aria-label="Permalink to &quot;运行环境&quot;"></a></h2>
 <p>windows , linux, mac</p>
 <h2 id="网址" tabindex="-1">网址 <a class="header-anchor" href="#网址" aria-label="Permalink to &quot;网址&quot;"></a></h2>
-<p><a href="http://agiantii.fun" target="_blank" rel="noreferrer">agiantii.fun</a> 2024.12.31 到期</p>
+<p><a href="http://agiantii.top" target="_blank" rel="noreferrer">agiantii.top</a>
+<a href="./.html">source code</a></p>
 <h2 id="项目介绍" tabindex="-1">项目介绍 <a class="header-anchor" href="#项目介绍" aria-label="Permalink to &quot;项目介绍&quot;"></a></h2>
 <p>ABlog 是一个面向开发者和技术爱好者的现代化博客平台。它专注于提供优质的技术内容创作和分享体验，支持 Markdown 编写，并集成了代码高亮、数学公式、流程图等专业特性。</p>
 <blockquote>
@@ -1048,10 +809,744 @@ w]]></description>
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[学生选课管理系统]]></title>
+            <link>http://blog.agiantii.top/post/project/sms.html</link>
+            <guid>http://blog.agiantii.top/post/project/sms.html</guid>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
+            <description><![CDATA[# 学生选课管理系统
+
+## 项目简介
+一个前端基于 Vue 3 + Element Plus，后端基于 Spring Boot + MyBatis Plus 的现代化学生选课管理系统，支持学生选课、教师管理课程和成绩、管理员统一管理等功能。
+ps:
+- 前端 让 cursor 根据 [api-doc](./api-doc.md) 生成
+- 后端 自己简单 写了一些 crud
+- 文档也大部分由 cursor 编写
+## 项目 地址
+[gitee-repo](https://gitee.com/Agiantii/course-management-system.git)
+## 功能特点
+
+- 🎨 现代化 UI 设计，支持暗色主题
+- 🚀 前端基于 Vue 3 + Vite 构建，后端采用 Spring Boot 2.x
+- 📱 响应式布局，支持多端适配
+- 🔐 基于 Spring Security 的多角色权限管理
+- 📊 数据可视化展示
+- 🌈 优雅的动画和交互效果
+- 💾 MyBatis Plus 提供强大的 ORM 支持
+- 🔄 RESTful API 设计规范
+
+### 项目 部分效果图
+
+#### login 页面
+![login](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-7150.png)
+#### ADMIN系统
+
+![ADMIN系统首页](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-5663.png)
+
+![学生管理](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6112.png)
+
+![教师管理](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-9922.png)
+
+![课程管理](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-3286.png)
+
+#### 学生系统
+![学生系统首页](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6735.png)
+![选课中心](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-4326.png)
+![我的课程](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6790.png)
+![成绩查询](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6473.png)
+![个人信息](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-436.png)
+
+#### 教师系统
+
+![教师首页](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-1376.png)
+![课程管理](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-6423.png)
+![成绩管理](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-736.png)
+![个人信息](http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-6277.png)
+### 技术栈
+
+#### 后端技术
+- Spring Boot 2.x
+- MyBatis Plus
+- MySQL
+
+
+#### 前端技术
+- Vue 3
+- Element Plus
+- Vite
+- Pinia
+- Vue Router
+- Axios
+
+## 开发视图
+
+```mermaid
+graph LR
+    subgraph Login[登录模块]
+        L[登录页面] --> |认证| R{角色判断}
+    end
+
+    subgraph StudentSystem[学生系统]
+        R -->|学生| SD[学生首页]
+        SD --> SC[选课中心]
+        SD --> SM[我的课程]
+        SD --> SG[成绩查询]
+        SD --> SP[个人信息]
+        
+        SC -->|选课/退课| SM
+        SM -->|查看| SG
+    end
+
+    subgraph TeacherSystem[教师系统]
+        R -->|教师| TD[教师首页]
+        TD --> TC[课程管理]
+        TD --> TG[成绩管理]
+        TD --> TP[个人信息]
+        
+        TC -->|选择课程| TG
+    end
+
+    subgraph AdminSystem[管理员系统]
+        R -->|管理员| AD[管理首页]
+        AD --> AS[学生管理]
+        AD --> AT[教师管理]
+        AD --> AC[课程管理]
+        
+        AS -->|关联| AC
+        AT -->|关联| AC
+    end
+
+    style Login fill:#f9f,stroke:#333,stroke-width:2px
+    style StudentSystem fill:#bbf,stroke:#333,stroke-width:2px
+    style TeacherSystem fill:#bfb,stroke:#333,stroke-width:2px
+    style AdminSystem fill:#fbb,stroke:#333,stroke-width:2px
+```
+
+### 页面说明
+
+#### 学生模块
+- 首页：展示课程统计、学分统计等
+- 选课中心：浏览和选择可用课程
+- 我的课程：查看已选课程和课表
+- 成绩查询：查看各科成绩和绩点
+
+#### 教师模块
+- 首页：展示教学统计和课程概况
+- 课程管理：管理教授的课程
+- 成绩管理：录入和修改学生成绩
+
+#### 管理员模块
+- 首页：系统整体统计和监控
+- 用户管理：学生和教师账号管理
+- 课程管理：全局课程设置和管理
+
+
+
+## 系统架构
+
+```mermaid
+graph TB
+    subgraph Frontend[前端应用]
+        Router[路由管理]
+        Store[状态管理]
+        API[API接口]
+    end
+
+    subgraph Modules[功能模块]
+        Auth[认证模块]
+        Student[学生模块]
+        Teacher[教师模块]
+        Admin[管理员模块]
+    end
+
+    subgraph Features[核心功能]
+        Course[课程管理]
+        Score[成绩管理]
+        User[用户管理]
+    end
+
+    Frontend --> Modules
+    Modules --> Features
+
+    Auth --> |登录认证| Router
+    Auth --> |状态维护| Store
+    
+    Student --> |选课| Course
+    Student --> |查看成绩| Score
+    
+    Teacher --> |管理课程| Course
+    Teacher --> |录入成绩| Score
+    
+    Admin --> |管理用户| User
+    Admin --> |管理课程| Course
+    Admin --> |管理成绩| Score
+
+    API --> |HTTP请求| Backend((后端服务))
+```
+## 项目评价报告
+[项目评价报告](./评价报告.md)
+## 表设计
+
+### ER图
+```mermaid
+erDiagram
+    t_course_and_student ||--o{ t_course : "has"
+    t_course_and_student ||--o{ t_student : "includes"
+    t_course_and_student ||--o{ t_teacher : "taught_by"
+
+    t_admin {
+        int id PK
+        varchar(255) name
+    }
+
+    t_course {
+        int id PK
+        int teacher_id FK
+        varchar(100) name
+        int credit
+        date term
+        int student_limit
+    }
+
+    t_score {
+        int course_id FK
+        int student_id FK
+        int teacher_id FK
+        int score
+        int id PK
+    }
+
+    t_student {
+        int id PK
+        varchar(255) name
+    }
+
+    t_teacher {
+        int id PK
+        varchar(255) name
+    }
+
+    t_user {
+        int id PK
+        varchar(255) password
+        varchar(30) role
+    }
+
+    t_course_and_student {
+        int course_id FK
+        int student_id FK
+        int teacher_id FK
+        int id PK
+    }
+
+    t_score ||--o{ t_course : "of"
+    t_score ||--o{ t_student : "by"
+    t_score ||--o{ t_teacher : "graded"
+
+```
+### 表结构
+
+
+#### t_course_and_student 
+
+| 字段名     | 数据类型 | 可以为空 | 主键 | 索引 |
+| ]]></description>
+            <content:encoded><![CDATA[<h1 id="学生选课管理系统" tabindex="-1">学生选课管理系统 <a class="header-anchor" href="#学生选课管理系统" aria-label="Permalink to &quot;学生选课管理系统&quot;"></a></h1>
+<h2 id="项目简介" tabindex="-1">项目简介 <a class="header-anchor" href="#项目简介" aria-label="Permalink to &quot;项目简介&quot;"></a></h2>
+<p>一个前端基于 Vue 3 + Element Plus，后端基于 Spring Boot + MyBatis Plus 的现代化学生选课管理系统，支持学生选课、教师管理课程和成绩、管理员统一管理等功能。
+ps:</p>
+<ul>
+<li>前端 让 cursor 根据 <a href="./api-doc.html">api-doc</a> 生成</li>
+<li>后端 自己简单 写了一些 crud</li>
+<li>文档也大部分由 cursor 编写</li>
+</ul>
+<h2 id="项目-地址" tabindex="-1">项目 地址 <a class="header-anchor" href="#项目-地址" aria-label="Permalink to &quot;项目 地址&quot;"></a></h2>
+<p><a href="https://gitee.com/Agiantii/course-management-system.git" target="_blank" rel="noreferrer">gitee-repo</a></p>
+<h2 id="功能特点" tabindex="-1">功能特点 <a class="header-anchor" href="#功能特点" aria-label="Permalink to &quot;功能特点&quot;"></a></h2>
+<ul>
+<li>🎨 现代化 UI 设计，支持暗色主题</li>
+<li>🚀 前端基于 Vue 3 + Vite 构建，后端采用 Spring Boot 2.x</li>
+<li>📱 响应式布局，支持多端适配</li>
+<li>🔐 基于 Spring Security 的多角色权限管理</li>
+<li>📊 数据可视化展示</li>
+<li>🌈 优雅的动画和交互效果</li>
+<li>💾 MyBatis Plus 提供强大的 ORM 支持</li>
+<li>🔄 RESTful API 设计规范</li>
+</ul>
+<h3 id="项目-部分效果图" tabindex="-1">项目 部分效果图 <a class="header-anchor" href="#项目-部分效果图" aria-label="Permalink to &quot;项目 部分效果图&quot;"></a></h3>
+<h4 id="login-页面" tabindex="-1">login 页面 <a class="header-anchor" href="#login-页面" aria-label="Permalink to &quot;login 页面&quot;"></a></h4>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-7150.png" alt="login"></p>
+<h4 id="admin系统" tabindex="-1">ADMIN系统 <a class="header-anchor" href="#admin系统" aria-label="Permalink to &quot;ADMIN系统&quot;"></a></h4>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-5663.png" alt="ADMIN系统首页"></p>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6112.png" alt="学生管理"></p>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-9922.png" alt="教师管理"></p>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-3286.png" alt="课程管理"></p>
+<h4 id="学生系统" tabindex="-1">学生系统 <a class="header-anchor" href="#学生系统" aria-label="Permalink to &quot;学生系统&quot;"></a></h4>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6735.png" alt="学生系统首页">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-4326.png" alt="选课中心">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6790.png" alt="我的课程">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-6473.png" alt="成绩查询">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-436.png" alt="个人信息"></p>
+<h4 id="教师系统" tabindex="-1">教师系统 <a class="header-anchor" href="#教师系统" aria-label="Permalink to &quot;教师系统&quot;"></a></h4>
+<p><img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-1376.png" alt="教师首页">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-6423.png" alt="课程管理">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-736.png" alt="成绩管理">
+<img src="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742162-6277.png" alt="个人信息"></p>
+<h3 id="技术栈" tabindex="-1">技术栈 <a class="header-anchor" href="#技术栈" aria-label="Permalink to &quot;技术栈&quot;"></a></h3>
+<h4 id="后端技术" tabindex="-1">后端技术 <a class="header-anchor" href="#后端技术" aria-label="Permalink to &quot;后端技术&quot;"></a></h4>
+<ul>
+<li>Spring Boot 2.x</li>
+<li>MyBatis Plus</li>
+<li>MySQL</li>
+</ul>
+<h4 id="前端技术" tabindex="-1">前端技术 <a class="header-anchor" href="#前端技术" aria-label="Permalink to &quot;前端技术&quot;"></a></h4>
+<ul>
+<li>Vue 3</li>
+<li>Element Plus</li>
+<li>Vite</li>
+<li>Pinia</li>
+<li>Vue Router</li>
+<li>Axios</li>
+</ul>
+<h2 id="开发视图" tabindex="-1">开发视图 <a class="header-anchor" href="#开发视图" aria-label="Permalink to &quot;开发视图&quot;"></a></h2>
+
+      <Suspense> 
+      <template #default>
+      <Mermaid id="mermaid-174" class="mermaid" graph="graph%20LR%0A%20%20%20%20subgraph%20Login%5B%E7%99%BB%E5%BD%95%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20%20%20%20%20L%5B%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2%5D%20--%3E%20%7C%E8%AE%A4%E8%AF%81%7C%20R%7B%E8%A7%92%E8%89%B2%E5%88%A4%E6%96%AD%7D%0A%20%20%20%20end%0A%0A%20%20%20%20subgraph%20StudentSystem%5B%E5%AD%A6%E7%94%9F%E7%B3%BB%E7%BB%9F%5D%0A%20%20%20%20%20%20%20%20R%20--%3E%7C%E5%AD%A6%E7%94%9F%7C%20SD%5B%E5%AD%A6%E7%94%9F%E9%A6%96%E9%A1%B5%5D%0A%20%20%20%20%20%20%20%20SD%20--%3E%20SC%5B%E9%80%89%E8%AF%BE%E4%B8%AD%E5%BF%83%5D%0A%20%20%20%20%20%20%20%20SD%20--%3E%20SM%5B%E6%88%91%E7%9A%84%E8%AF%BE%E7%A8%8B%5D%0A%20%20%20%20%20%20%20%20SD%20--%3E%20SG%5B%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%5D%0A%20%20%20%20%20%20%20%20SD%20--%3E%20SP%5B%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%5D%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20SC%20--%3E%7C%E9%80%89%E8%AF%BE%2F%E9%80%80%E8%AF%BE%7C%20SM%0A%20%20%20%20%20%20%20%20SM%20--%3E%7C%E6%9F%A5%E7%9C%8B%7C%20SG%0A%20%20%20%20end%0A%0A%20%20%20%20subgraph%20TeacherSystem%5B%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F%5D%0A%20%20%20%20%20%20%20%20R%20--%3E%7C%E6%95%99%E5%B8%88%7C%20TD%5B%E6%95%99%E5%B8%88%E9%A6%96%E9%A1%B5%5D%0A%20%20%20%20%20%20%20%20TD%20--%3E%20TC%5B%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20TD%20--%3E%20TG%5B%E6%88%90%E7%BB%A9%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20TD%20--%3E%20TP%5B%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%5D%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20TC%20--%3E%7C%E9%80%89%E6%8B%A9%E8%AF%BE%E7%A8%8B%7C%20TG%0A%20%20%20%20end%0A%0A%20%20%20%20subgraph%20AdminSystem%5B%E7%AE%A1%E7%90%86%E5%91%98%E7%B3%BB%E7%BB%9F%5D%0A%20%20%20%20%20%20%20%20R%20--%3E%7C%E7%AE%A1%E7%90%86%E5%91%98%7C%20AD%5B%E7%AE%A1%E7%90%86%E9%A6%96%E9%A1%B5%5D%0A%20%20%20%20%20%20%20%20AD%20--%3E%20AS%5B%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20AD%20--%3E%20AT%5B%E6%95%99%E5%B8%88%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20AD%20--%3E%20AC%5B%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20AS%20--%3E%7C%E5%85%B3%E8%81%94%7C%20AC%0A%20%20%20%20%20%20%20%20AT%20--%3E%7C%E5%85%B3%E8%81%94%7C%20AC%0A%20%20%20%20end%0A%0A%20%20%20%20style%20Login%20fill%3A%23f9f%2Cstroke%3A%23333%2Cstroke-width%3A2px%0A%20%20%20%20style%20StudentSystem%20fill%3A%23bbf%2Cstroke%3A%23333%2Cstroke-width%3A2px%0A%20%20%20%20style%20TeacherSystem%20fill%3A%23bfb%2Cstroke%3A%23333%2Cstroke-width%3A2px%0A%20%20%20%20style%20AdminSystem%20fill%3A%23fbb%2Cstroke%3A%23333%2Cstroke-width%3A2px%0A"></Mermaid>
+      </template>
+        <!-- loading state via #fallback slot -->
+        <template #fallback>
+          Loading...
+        </template>
+      </Suspense><h3 id="页面说明" tabindex="-1">页面说明 <a class="header-anchor" href="#页面说明" aria-label="Permalink to &quot;页面说明&quot;"></a></h3>
+<h4 id="学生模块" tabindex="-1">学生模块 <a class="header-anchor" href="#学生模块" aria-label="Permalink to &quot;学生模块&quot;"></a></h4>
+<ul>
+<li>首页：展示课程统计、学分统计等</li>
+<li>选课中心：浏览和选择可用课程</li>
+<li>我的课程：查看已选课程和课表</li>
+<li>成绩查询：查看各科成绩和绩点</li>
+</ul>
+<h4 id="教师模块" tabindex="-1">教师模块 <a class="header-anchor" href="#教师模块" aria-label="Permalink to &quot;教师模块&quot;"></a></h4>
+<ul>
+<li>首页：展示教学统计和课程概况</li>
+<li>课程管理：管理教授的课程</li>
+<li>成绩管理：录入和修改学生成绩</li>
+</ul>
+<h4 id="管理员模块" tabindex="-1">管理员模块 <a class="header-anchor" href="#管理员模块" aria-label="Permalink to &quot;管理员模块&quot;"></a></h4>
+<ul>
+<li>首页：系统整体统计和监控</li>
+<li>用户管理：学生和教师账号管理</li>
+<li>课程管理：全局课程设置和管理</li>
+</ul>
+<h2 id="系统架构" tabindex="-1">系统架构 <a class="header-anchor" href="#系统架构" aria-label="Permalink to &quot;系统架构&quot;"></a></h2>
+
+      <Suspense> 
+      <template #default>
+      <Mermaid id="mermaid-246" class="mermaid" graph="graph%20TB%0A%20%20%20%20subgraph%20Frontend%5B%E5%89%8D%E7%AB%AF%E5%BA%94%E7%94%A8%5D%0A%20%20%20%20%20%20%20%20Router%5B%E8%B7%AF%E7%94%B1%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20Store%5B%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20API%5BAPI%E6%8E%A5%E5%8F%A3%5D%0A%20%20%20%20end%0A%0A%20%20%20%20subgraph%20Modules%5B%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20%20%20%20%20Auth%5B%E8%AE%A4%E8%AF%81%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20%20%20%20%20Student%5B%E5%AD%A6%E7%94%9F%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20%20%20%20%20Teacher%5B%E6%95%99%E5%B8%88%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20%20%20%20%20Admin%5B%E7%AE%A1%E7%90%86%E5%91%98%E6%A8%A1%E5%9D%97%5D%0A%20%20%20%20end%0A%0A%20%20%20%20subgraph%20Features%5B%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%5D%0A%20%20%20%20%20%20%20%20Course%5B%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20Score%5B%E6%88%90%E7%BB%A9%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20%20%20%20%20User%5B%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%5D%0A%20%20%20%20end%0A%0A%20%20%20%20Frontend%20--%3E%20Modules%0A%20%20%20%20Modules%20--%3E%20Features%0A%0A%20%20%20%20Auth%20--%3E%20%7C%E7%99%BB%E5%BD%95%E8%AE%A4%E8%AF%81%7C%20Router%0A%20%20%20%20Auth%20--%3E%20%7C%E7%8A%B6%E6%80%81%E7%BB%B4%E6%8A%A4%7C%20Store%0A%20%20%20%20%0A%20%20%20%20Student%20--%3E%20%7C%E9%80%89%E8%AF%BE%7C%20Course%0A%20%20%20%20Student%20--%3E%20%7C%E6%9F%A5%E7%9C%8B%E6%88%90%E7%BB%A9%7C%20Score%0A%20%20%20%20%0A%20%20%20%20Teacher%20--%3E%20%7C%E7%AE%A1%E7%90%86%E8%AF%BE%E7%A8%8B%7C%20Course%0A%20%20%20%20Teacher%20--%3E%20%7C%E5%BD%95%E5%85%A5%E6%88%90%E7%BB%A9%7C%20Score%0A%20%20%20%20%0A%20%20%20%20Admin%20--%3E%20%7C%E7%AE%A1%E7%90%86%E7%94%A8%E6%88%B7%7C%20User%0A%20%20%20%20Admin%20--%3E%20%7C%E7%AE%A1%E7%90%86%E8%AF%BE%E7%A8%8B%7C%20Course%0A%20%20%20%20Admin%20--%3E%20%7C%E7%AE%A1%E7%90%86%E6%88%90%E7%BB%A9%7C%20Score%0A%0A%20%20%20%20API%20--%3E%20%7CHTTP%E8%AF%B7%E6%B1%82%7C%20Backend((%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1))%0A"></Mermaid>
+      </template>
+        <!-- loading state via #fallback slot -->
+        <template #fallback>
+          Loading...
+        </template>
+      </Suspense><h2 id="项目评价报告" tabindex="-1">项目评价报告 <a class="header-anchor" href="#项目评价报告" aria-label="Permalink to &quot;项目评价报告&quot;"></a></h2>
+<p><a href="./评价报告.html">项目评价报告</a></p>
+<h2 id="表设计" tabindex="-1">表设计 <a class="header-anchor" href="#表设计" aria-label="Permalink to &quot;表设计&quot;"></a></h2>
+<h3 id="er图" tabindex="-1">ER图 <a class="header-anchor" href="#er图" aria-label="Permalink to &quot;ER图&quot;"></a></h3>
+
+      <Suspense> 
+      <template #default>
+      <Mermaid id="mermaid-259" class="mermaid" graph="erDiagram%0A%20%20%20%20t_course_and_student%20%7C%7C--o%7B%20t_course%20%3A%20%22has%22%0A%20%20%20%20t_course_and_student%20%7C%7C--o%7B%20t_student%20%3A%20%22includes%22%0A%20%20%20%20t_course_and_student%20%7C%7C--o%7B%20t_teacher%20%3A%20%22taught_by%22%0A%0A%20%20%20%20t_admin%20%7B%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%20%20%20%20varchar(255)%20name%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_course%20%7B%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%20%20%20%20int%20teacher_id%20FK%0A%20%20%20%20%20%20%20%20varchar(100)%20name%0A%20%20%20%20%20%20%20%20int%20credit%0A%20%20%20%20%20%20%20%20date%20term%0A%20%20%20%20%20%20%20%20int%20student_limit%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_score%20%7B%0A%20%20%20%20%20%20%20%20int%20course_id%20FK%0A%20%20%20%20%20%20%20%20int%20student_id%20FK%0A%20%20%20%20%20%20%20%20int%20teacher_id%20FK%0A%20%20%20%20%20%20%20%20int%20score%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_student%20%7B%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%20%20%20%20varchar(255)%20name%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_teacher%20%7B%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%20%20%20%20varchar(255)%20name%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_user%20%7B%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%20%20%20%20varchar(255)%20password%0A%20%20%20%20%20%20%20%20varchar(30)%20role%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_course_and_student%20%7B%0A%20%20%20%20%20%20%20%20int%20course_id%20FK%0A%20%20%20%20%20%20%20%20int%20student_id%20FK%0A%20%20%20%20%20%20%20%20int%20teacher_id%20FK%0A%20%20%20%20%20%20%20%20int%20id%20PK%0A%20%20%20%20%7D%0A%0A%20%20%20%20t_score%20%7C%7C--o%7B%20t_course%20%3A%20%22of%22%0A%20%20%20%20t_score%20%7C%7C--o%7B%20t_student%20%3A%20%22by%22%0A%20%20%20%20t_score%20%7C%7C--o%7B%20t_teacher%20%3A%20%22graded%22%0A%0A"></Mermaid>
+      </template>
+        <!-- loading state via #fallback slot -->
+        <template #fallback>
+          Loading...
+        </template>
+      </Suspense><h3 id="表结构" tabindex="-1">表结构 <a class="header-anchor" href="#表结构" aria-label="Permalink to &quot;表结构&quot;"></a></h3>
+<h4 id="t-course-and-student" tabindex="-1">t_course_and_student <a class="header-anchor" href="#t-course-and-student" aria-label="Permalink to &quot;t_course_and_student&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>course_id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>-</td>
+</tr>
+<tr>
+<td>student_id</td>
+<td>int</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>teacher_id</td>
+<td>int</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-admin" tabindex="-1">t_admin <a class="header-anchor" href="#t-admin" aria-label="Permalink to &quot;t_admin&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+<tr>
+<td>name</td>
+<td>varchar(255)</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-course" tabindex="-1">t_course <a class="header-anchor" href="#t-course" aria-label="Permalink to &quot;t_course&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+<tr>
+<td>teacher_id</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+<tr>
+<td>name</td>
+<td>varchar(100)</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+<tr>
+<td>credit</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+<tr>
+<td>term</td>
+<td>date</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+<tr>
+<td>student_limit</td>
+<td>int UNSIGNED</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-score" tabindex="-1">t_score <a class="header-anchor" href="#t-score" aria-label="Permalink to &quot;t_score&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>course_id</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>student_id</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>teacher_id</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>score</td>
+<td>int</td>
+<td>否</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-student" tabindex="-1">t_student <a class="header-anchor" href="#t-student" aria-label="Permalink to &quot;t_student&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+<tr>
+<td>name</td>
+<td>varchar(255)</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-teacher" tabindex="-1">t_teacher <a class="header-anchor" href="#t-teacher" aria-label="Permalink to &quot;t_teacher&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+<tr>
+<td>name</td>
+<td>varchar(255)</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h4 id="t-user" tabindex="-1">t_user <a class="header-anchor" href="#t-user" aria-label="Permalink to &quot;t_user&quot;"></a></h4>
+<table tabindex="0">
+<thead>
+<tr>
+<th>字段名</th>
+<th>数据类型</th>
+<th>可以为空</th>
+<th>主键</th>
+<th>索引</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>id</td>
+<td>int</td>
+<td>否</td>
+<td>是</td>
+<td>否</td>
+</tr>
+<tr>
+<td>password</td>
+<td>varchar(255)</td>
+<td>否</td>
+<td>否</td>
+<td>-</td>
+</tr>
+<tr>
+<td>role</td>
+<td>varchar(30)</td>
+<td>是</td>
+<td>否</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h2 id="角色权限" tabindex="-1">角色权限 <a class="header-anchor" href="#角色权限" aria-label="Permalink to &quot;角色权限&quot;"></a></h2>
+<table tabindex="0">
+<thead>
+<tr>
+<th>角色</th>
+<th>权限描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>学生</td>
+<td>选课、查看课表、查询成绩</td>
+</tr>
+<tr>
+<td>教师</td>
+<td>管理课程、录入成绩、查看统计</td>
+</tr>
+<tr>
+<td>管理员</td>
+<td>管理用户、管理课程、系统管理</td>
+</tr>
+</tbody>
+</table>
+<h2 id="环境要求" tabindex="-1">环境要求 <a class="header-anchor" href="#环境要求" aria-label="Permalink to &quot;环境要求&quot;"></a></h2>
+<ul>
+<li>JDK 1.8+</li>
+<li>Maven 3.6+</li>
+<li>MySQL 8.0+</li>
+<li>Node.js 16+</li>
+</ul>
+<h2 id="运行说明" tabindex="-1">运行说明 <a class="header-anchor" href="#运行说明" aria-label="Permalink to &quot;运行说明&quot;"></a></h2>
+<h3 id="_1-后端环境配置" tabindex="-1">1. 后端环境配置 <a class="header-anchor" href="#_1-后端环境配置" aria-label="Permalink to &quot;1. 后端环境配置&quot;"></a></h3>
+<h4 id="_1-1-数据库配置" tabindex="-1">1.1 数据库配置 <a class="header-anchor" href="#_1-1-数据库配置" aria-label="Permalink to &quot;1.1 数据库配置&quot;"></a></h4>
+<ol>
+<li>
+<p>创建数据库
+<a href="./sql/sms.sql.html">sql文件</a></p>
+</li>
+<li>
+<p>修改 <code>application.yml</code> 配置：</p>
+</li>
+</ol>
+<div class="language-yaml vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">yaml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">spring</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">:</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">  datasource</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">:</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">    url</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">jdbc:mysql://localhost:3306/sms?</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">    useUnicode=true&#x26;characterEncoding=utf-8&#x26;serverTimezone=Asia/Shanghai</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">    username</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">your_username</span></span>
+<span class="line"><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">    password</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">your_password</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div><h3 id="_2-启动项目" tabindex="-1">2. 启动项目 <a class="header-anchor" href="#_2-启动项目" aria-label="Permalink to &quot;2. 启动项目&quot;"></a></h3>
+<h4 id="_2-1-后端启动" tabindex="-1">2.1 后端启动 <a class="header-anchor" href="#_2-1-后端启动" aria-label="Permalink to &quot;2.1 后端启动&quot;"></a></h4>
+<ol>
+<li>进入后端项目根目录</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">cd</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> backend</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><ol start="2">
+<li>编译项目</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">mvn</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> clean</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> package</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><ol start="3">
+<li>运行项目</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">java</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> -jar</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> target/student-course-selection.jar</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><p>或使用 Maven 运行：</p>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">mvn</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> spring-boot:run</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><h4 id="_2-2-前端启动" tabindex="-1">2.2 前端启动 <a class="header-anchor" href="#_2-2-前端启动" aria-label="Permalink to &quot;2.2 前端启动&quot;"></a></h4>
+<ol>
+<li>进入前端项目目录</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">cd</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> frontend</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><ol start="2">
+<li>安装依赖</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> install</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><ol start="3">
+<li>启动开发服务器</li>
+</ol>
+<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> run</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> dev</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div><h3 id="_3-访问项目" tabindex="-1">3. 访问项目 <a class="header-anchor" href="#_3-访问项目" aria-label="Permalink to &quot;3. 访问项目&quot;"></a></h3>
+<ul>
+<li>后端接口文档：<a href="http://localhost:9090/doc.html" target="_blank" rel="noreferrer">http://localhost:9090/doc.html</a></li>
+<li>前端页面：<a href="http://localhost:5173" target="_blank" rel="noreferrer">http://localhost:5173</a></li>
+</ul>
+<h2 id="项目结构" tabindex="-1">项目结构 <a class="header-anchor" href="#项目结构" aria-label="Permalink to &quot;项目结构&quot;"></a></h2>
+<div class="language- vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span>src/</span></span>
+<span class="line"><span>├── main/</span></span>
+<span class="line"><span>│   ├── java/</span></span>
+<span class="line"><span>│   │   └── com/</span></span>
+<span class="line"><span>│   │       └── course/</span></span>
+<span class="line"><span>│   │           ├── config/          # 配置类</span></span>
+<span class="line"><span>│   │           ├── controller/      # 控制器</span></span>
+<span class="line"><span>│   │           ├── service/         # 服务层</span></span>
+<span class="line"><span>│   │           │   └── impl/       # 服务实现</span></span>
+<span class="line"><span>│   │           ├── mapper/          # MyBatis 接口</span></span>
+<span class="line"><span>│   │           ├── entity/          # 实体类</span></span>
+<span class="line"><span>│   │           ├── dto/             # 数据传输对象</span></span>
+<span class="line"><span>│   │           ├── vo/              # 视图对象</span></span>
+<span class="line"><span>│   │           ├── common/          # 公共类</span></span>
+<span class="line"><span>│   │           └── util/            # 工具类</span></span>
+<span class="line"><span>│   └── resources/</span></span>
+<span class="line"><span>│       ├── application.yml          # 主配置文件</span></span>
+<span class="line"><span>│       ├── application-dev.yml      # 开发环境配置</span></span>
+<span class="line"><span>│       ├── application-prod.yml     # 生产环境配置</span></span>
+<span class="line"><span>│       └── mapper/                  # MyBatis XML 映射文件</span></span></code></pre>
+<div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br></div></div><h2 id="api-文档" tabindex="-1">API 文档 <a class="header-anchor" href="#api-文档" aria-label="Permalink to &quot;API 文档&quot;"></a></h2>
+<p>项目集成了 Swagger/Knife4j，启动后访问：<a href="http://localhost:9090/doc.html" target="_blank" rel="noreferrer">http://localhost:9090/doc.html</a></p>
+<h2 id="部署说明" tabindex="-1">部署说明 <a class="header-anchor" href="#部署说明" aria-label="Permalink to &quot;部署说明&quot;"></a></h2>
+<ol>
+<li>使用 <code>mvn clean package</code> 打包后端项目</li>
+<li>使用 <code>npm run build</code> 构建前端项目</li>
+<li>配置 Nginx 代理前端静态资源和后端 API</li>
+<li>使用 <code>nohup</code> 或 <code>systemd</code> 启动后端服务</li>
+</ol>
+]]></content:encoded>
+            <enclosure url="http://agiantii-oss-local.oss-cn-hangzhou.aliyuncs.com/test/ablog-1747742161-7150.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Yuque 导出文档的 Web UI]]></title>
             <link>http://blog.agiantii.top/post/project/yuque-export-web-ui/Q&amp;A.html</link>
             <guid>http://blog.agiantii.top/post/project/yuque-export-web-ui/Q&amp;A.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[这是一个用于导出 Yuque 文档的 Web UI 项目。该项目允许用户通过 Web 界面输入 Cookie 并选择要导出的书籍，最终生成包含所选书籍的 ZIP 文件。
  ps
 - 你可以结合 img]]></description>
@@ -1126,7 +1621,7 @@ w]]></description>
             <title><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。]]></title>
             <link>http://blog.agiantii.top/post/python/spider/selenium-start.html</link>
             <guid>http://blog.agiantii.top/post/python/spider/selenium-start.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[记录一下 python selenium 的使用，以及一些常见问题的解决方法。
  python 安装 selenium
 ```shell
@@ -1159,7 +1654,7 @@ pip install selenium
             <title><![CDATA[this template ]]></title>
             <link>http://blog.agiantii.top/post/template/</link>
             <guid>http://blog.agiantii.top/post/template/</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[this template]]></description>
             <content:encoded><![CDATA[<h2 id="this-template" tabindex="-1">this template <a class="header-anchor" href="#this-template" aria-label="Permalink to &quot;this template&quot;"></a></h2>
 ]]></content:encoded>
@@ -1168,7 +1663,7 @@ pip install selenium
             <title><![CDATA[makefile]]></title>
             <link>http://blog.agiantii.top/post/template/makefile-for-cpp.html</link>
             <guid>http://blog.agiantii.top/post/template/makefile-for-cpp.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[tempalte for cpp 
 ```makefile
  Compiler
@@ -1212,7 +1707,7 @@ CXXFLAGS = -Wall -Wextra -std=c++1]]></description>
             <title><![CDATA[tempalte]]></title>
             <link>http://blog.agiantii.top/post/template/template-for-workflow.html</link>
             <guid>http://blog.agiantii.top/post/template/template-for-workflow.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[tempalte for Workflow 
  auto push to github gh-pages
 ```yaml
@@ -1323,7 +1818,7 @@ on:
             <title><![CDATA[tool]]></title>
             <link>http://blog.agiantii.top/tool.html</link>
             <guid>http://blog.agiantii.top/tool.html</guid>
-            <pubDate>Tue, 20 May 2025 13:38:30 GMT</pubDate>
+            <pubDate>Sun, 25 May 2025 14:53:33 GMT</pubDate>
             <description><![CDATA[- cloudreve
 - blog
 - code-server]]></description>
